@@ -6,3 +6,5 @@ Pyrogram
 tgcrypto
 youtube-dl
 psutil
+flask
+flask_restful
