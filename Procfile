@@ -1,1 +1,1 @@
-worker: python3 -m apdbot
+worker: python3 app.py & python3 -m apdbot
